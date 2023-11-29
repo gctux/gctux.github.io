@@ -1,3 +1,3 @@
 # Reiseblog
 
-Link auf den ersteeen [Post](post01.md)
+Link auf den ersten [Post](post01.md)
